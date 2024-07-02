@@ -7,7 +7,7 @@ m.vpon.com
 blacklist=`curl $blacklist_url | grep -v '^#' | awk '{ print $2 }'`
 adguard=`curl $adguard_url | grep -v '^!' | grep -v '^#' | sed -E 's/^@+//' | sed -E 's/^\|+//' | sed -E 's/^-//' |sed -E 's/\^\|?$//' | grep -v '*'`
 
-echo "$custom\n$blacklist\n$adguard" | grep -v '^$' | sort | uniq > adservers.txt
+echo "$custom\n$blacklist\n$adguard" | sort | uniq | grep -E '^([a-zA-Z0-9\-_]+.)+[a-zA-Z]{2,}$' > adservers.txt
 
 git add .
 git commit --allow-empty -m `date +%Y-%m-%d`
