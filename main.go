@@ -7,6 +7,7 @@ import (
   "strings"
   "regexp"
   "os"
+  "log"
 )
 
 const (
@@ -23,6 +24,10 @@ type ParallelResult[T any] struct {
   index int
   result T
   e error
+}
+
+func debug(args ...any) {
+  log.New(os.Stderr, "", 0).Println(args...)
 }
 
 func merge[T any](arrays [][]T) []T {
@@ -95,7 +100,7 @@ func parallel[T any](callbacks []ParallelCallback[T]) ([]T, []error) {
 }
 
 func fetchBlacklist() ([]string, error) {
-  fmt.Println("Fetching adservers from blacklist...")
+  debug("Fetching adservers from blacklist...")
 
   response, e := fetch(BLACKLIST_URL)
 
@@ -120,13 +125,13 @@ func fetchBlacklist() ([]string, error) {
     domains = append(domains, fields[1])
   }
 
-  fmt.Println("Fetched", len(domains), "adservers from blacklist")
+  debug("Fetched", len(domains), "adservers from blacklist")
 
   return domains, nil
 }
 
 func fetchAdguard() ([]string, error) {
-  fmt.Println("Fetching adservers from adguard...")
+  debug("Fetching adservers from adguard...")
 
   response, e := fetch(ADGUARD_URL)
 
@@ -155,7 +160,7 @@ func fetchAdguard() ([]string, error) {
     domains = append(domains, line)
   }
 
-  fmt.Println("Fetched", len(domains), "adservers from adguard")
+  debug("Fetched", len(domains), "adservers from adguard")
 
   return domains, nil
 }
@@ -179,7 +184,7 @@ func fetchAdservers() ([]string, error) {
     }
   }
 
-  fmt.Println("Total", len(adservers), "adservers fetched")
+  debug("Total", len(adservers), "adservers fetched")
 
   return adservers, nil
 }
@@ -188,13 +193,9 @@ func main() {
   adservers, e := fetchAdservers()
 
   if e != nil {
-    fmt.Println("Error fetching adservers:", e)
+    debug("Error fetching adservers:", e)
     return
   }
 
-  fmt.Println("Writing adservers to adservers.txt")
-
-  os.WriteFile("adservers.txt", []byte(strings.Join(adservers, "\n")), 0644)
-
-  fmt.Println("Done")
+  fmt.Print(strings.Join(adservers, "\n"))
 }
