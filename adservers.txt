@@ -78282,6 +78282,9 @@ webtrekk.net
 wizaly.com
 d1udjti6mtxz9q.cloudfront.net
 tagman.britishairways.com
+pixel.web.roku.com
+analytics.cloudevo.ai
+qbrth.ezcontacts.com
 lgforbes.akamaized.net
 event.wondershare.com
 collector.abc.net.au
@@ -80642,6 +80645,7 @@ analytics.qoqa.ninja
 analytics-sprint.qoqa.com
 analytics.qoqa.ch
 analytics.qoqa.com
+adrevenue.appsflyersdk.com
 attr.appsflyersdk.com
 register.appsflyersdk.com
 conversions.appsflyersdk.com
@@ -85409,6 +85413,7 @@ ov.yahoo.co.jp
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
 bance.jp
+mbada.nan.co.jp
 ads.nicovideo.jp
 adserv2.suumo.jp
 ad.woman.mynavi.jp
@@ -92627,12 +92632,23 @@ zvietnakello.weebly.com
 zywjpypco.7hujk.de
 51tongji.trafficmanager.net
 cnzz.trafficmanager.net
+jfrrnf.icu
+e50.icu
+aos01070ss.xyz
+sdyurlib.top
+lbfuvlyp.icu
+staivoiks.com
+gheslosy.com
 jjplaqyo.icu
 tixoilll.com
 hitalsli.com
 lcvwdn.icu
 1tp.icu
 jdyurlia.top
+orcinhyi.com
+thruksyq.com
+z4v.icu
+kdyurlid.top
 lirretsn.com
 nmzbrd.icu
 hrjciqyu.icu
@@ -97576,6 +97592,7 @@ ad.onliner.by
 letysheeps.ru
 a4.overclockers.ua
 novunu.football-plyus.net
+cl.link-ag.net
 action.metaffiliation.com
 www.dogpile.com
 acs-m.daraz.com.bd
