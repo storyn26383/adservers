@@ -42362,6 +42362,8 @@ js.wpadmngr.com
 telemetrydeck.com
 www.telemetrydeck.com
 api.telemetrydeck.com
+ogaku.site
+waaz.wjebboljobvaj.top
 hakurei.cdnbo.org
 nkdccsiwixvzj.world
 organicowner.com
@@ -42958,7 +42960,6 @@ wrmcfyzl.com
 yesadvertising.com
 zanox.com
 zeti.com
-embed.sendtonews.com
 o333o.com
 dianomi.com
 vipads.live
@@ -76088,6 +76089,7 @@ googlevads-cn.com
 79893962.xyz
 7fc8.site
 80133082.xyz
+80582834.xyz
 83409127.xyz
 83761158.xyz
 83887336.xyz
@@ -76342,6 +76344,7 @@ srv.yeahwebimobi.fun
 static.tradetracker.net
 supply.upjers.com
 syndicate.payloadz.com
+t.babelmedia.global
 tag.regieci.com
 tags.refinery89.com
 tcadserver.rain-digital.ca
@@ -78451,6 +78454,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+tags.pw.adn.cloud
 api-notify.markarch.com
 venatusmedia.com
 metrics.nsureapi.com
@@ -79755,6 +79759,7 @@ sitelabweb.com
 jixie.io
 amc.yandex.ru
 mc.yandex.com
+mc.yandex.md
 track.segmentstream.com
 vboro.de
 barddfvgkhctch11.ru
@@ -130407,6 +130412,7 @@ x.disq.us
 x.weather.com
 xp2023-pix.s3.amazonaws.com
 yoast-schema-graph.com
+yotrack.cdn.ybn.io
 adsdk.yandex.ru
 analytics.samsungknox.com
 extmaps-api.yandex.net
@@ -131220,7 +131226,6 @@ publi.elliberal.com.ar
 xad.dnoticias.pt
 adclient-uol.lp.uol.com.br
 adv.r7.com
-t.babelmedia.global
 butlercdn.com
 assets.etus.digital
 lyappreciat.info
@@ -131323,6 +131328,7 @@ solution911.com
 templates.buscape.com
 yestorrents.org
 oecistbenton.com
+vvdrhe.win
 adwadvert.com.ua
 nanthou.life
 wrapper.bracdn.online
@@ -141034,10 +141040,16 @@ zvietnakello.weebly.com
 zywjpypco.7hujk.de
 51tongji.trafficmanager.net
 cnzz.trafficmanager.net
+feernhuhe.com
+vhje.cn
+bptnzp.top
+ajoxxit.top
 spkh.cn
 sodenneyg.com
 zqntbc.top
 lcidauv.top
+bekd.cn
+uhityllhn.com
 xunqrutsl.com
 jslxzx.icu
 xeccotftw.com
