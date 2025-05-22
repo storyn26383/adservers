@@ -38,4 +38,4 @@ async function fetchAdservers() {
 }
 
 const adservers = await fetchAdservers()
-fs.writeFileSync('adservers.txt', adservers.join('\n'))
+console.log(adservers.join('\n'))
