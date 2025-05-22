@@ -1,15 +1,12 @@
-FROM golang:1.22-alpine3.20 AS builder
+FROM oven/bun:1.1-alpine
 
-WORKDIR /app
+MAINTAINER Sasaya <sasaya@percussion.life>
 
-COPY . .
+COPY ./src ./src
+COPY ./package.json ./package.json
+COPY ./tsconfig.json ./tsconfig.json
+COPY ./bun.lockb ./bun.lockb
 
-RUN go build -v -o adservers .
+RUN bun install
 
-FROM alpine:3.20
-
-COPY --from=builder /app/adservers /usr/local/bin/adservers
-
-WORKDIR /app
-
-CMD ["adservers"]
+CMD ["bun", "run", "src/index.ts"]
