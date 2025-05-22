@@ -8,7 +8,8 @@ const DOMAIN_LIST_URLS = [
   'https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt',
 ]
 const CUSTOM_DOMAINS = [
-  'm.vpon.com'
+  'm.vpon.com',
+  'abr.ge',
 ]
 
 async function fetchDomainList(url: string) {
