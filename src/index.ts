@@ -10,6 +10,7 @@ const DOMAIN_LIST_URLS = [
 const CUSTOM_DOMAINS = [
   'm.vpon.com',
   'abr.ge',
+  'e.axon.ai',
 ]
 
 async function fetchDomainList(url: string) {
