@@ -6,6 +6,7 @@ const DOMAIN_LIST_URLS = [
   'https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt',
   'https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt',
   'https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt',
+  'https://filter.futa.gg/hosts_domains.txt',
 ]
 const CUSTOM_DOMAINS = [
   'm.vpon.com',
