@@ -2,7 +2,9 @@ import fs from 'fs'
 
 const DOMAIN_LIST_URLS = [
   'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt',
+  'https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt',
   'https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt',
+  'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
   'https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt',
   'https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt',
   'https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt',
