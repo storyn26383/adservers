@@ -41,5 +41,18 @@ async function fetchAdservers() {
   return adservers
 }
 
+function formatYaml(domains: string[]) {
+  const items = domains.map(d => `  - '${d.startsWith('.') ? '+' + d : d}'`)
+  return `payload:\n${items.join('\n')}`
+}
+
+const args = process.argv.slice(2)
+const formatIdx = args.indexOf('--format')
+const format = formatIdx !== -1 ? (args[formatIdx + 1] ?? 'txt') : 'txt'
+
 const adservers = await fetchAdservers()
-console.log(adservers.join('\n'))
+if (format === 'yaml') {
+  console.log(formatYaml(adservers))
+} else {
+  console.log(adservers.join('\n'))
+}
