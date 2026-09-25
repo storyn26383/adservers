@@ -1,6 +1,9 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.nicelymodulo.com
+.fairycarboys.qpon
+.tilerypursers.qpon
 .rapidfire.cc
 .jazz.abovesave.com
 .shrillypants.com
@@ -6895,6 +6898,7 @@ e.axon.ai
 .static-rtb2.wearethepoint.com
 .static-rtb2.wecall-server.com
 .d162h6x3rxav67.cloudfront.net
+.lobe.scv.public.sse-prod-eks-euw1.futureplc.engineering
 .gray.unlikebuck.com
 .serve.omr.com
 .camp.inc.com
@@ -9740,11 +9744,6 @@ kma.biz
 .ad.abema.io
 .ad-hatena.com
 .advert.punyu.com
-.yodo1.com
-.banner.bet365partners.com
-.playwire.com
-.fingerhi.net
-.*.libaishuo.com
 .adx-open-service.youku.com
 .ad.youku.com
 .ykad-data.youku.com
@@ -9818,6 +9817,13 @@ kma.biz
 .deapi.sooplive.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.app.bxapi.de
+.yodo1.com
+.banner.bet365partners.com
+.playwire.com
+.fingerhi.net
+.*.libaishuo.com
+.palateonce.com
 .ads-m.rustore.ru
 .appgw.inmobi.com
 .adhub.porcino-kinoko.workers.dev
@@ -14363,6 +14369,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.metrics.li
 .bid.ctv.house
 .log.calomeal.com
 .visit-server.inmobi-choice.io
@@ -99991,10 +99998,3 @@ tru.am
 .serverleandrorezende.unifast.com.br
 .serverll.medspaaesthetic.com
 .serverlps.lojacasacriativa.com
-.servermonalizakrepe.unifast.com.br
-.servernova.lojaforevermoments.com.br
-.serverpt.consorciogarantia.com.br
-.servers.businessacademy.net
-.servers.ctmart.bd
-.servers.nagarbazar.com
-.servers.pechabee.shop
