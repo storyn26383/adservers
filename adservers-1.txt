@@ -7542,6 +7542,7 @@ vkcdnservice.appspot.com
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.balamutka.link
 .nevalyashka.link
 .aj2663.bid
 .sentry.rstprgapipt.com
@@ -10872,6 +10873,7 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.data-www-weaver.wanted.co.kr
 .eventlog.setka.ru
 .metrics.temptcdn.com
 .analytics.click-or-die.ru
@@ -99996,5 +99998,3 @@ tru.am
 .serverio.fernandaserraglia.com
 .serverjj.jnjfashion.com
 .serverleandrorezende.unifast.com.br
-.serverll.medspaaesthetic.com
-.serverlps.lojacasacriativa.com
