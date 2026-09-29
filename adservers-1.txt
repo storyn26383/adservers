@@ -1,8 +1,10 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.bid.pleasedmad.com
+.araplhn.org
+.ardance.org
 .engine.camconnections.live
-.desk.unlesscool.com
 .nicelymodulo.com
 .fairycarboys.qpon
 .tilerypursers.qpon
@@ -7676,6 +7678,7 @@ vkcdnservice.appspot.com
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.beeparentdo.com
 .balamutka.link
 .nevalyashka.link
 .aj2663.bid
@@ -9514,6 +9517,7 @@ kma.biz
 .twiago.com
 .bauernative.com
 .adshot.de
+.hmshanyin.com
 .ee.nukido.net
 .pa.wew.jp
 .tomonavi.xyz
@@ -11009,6 +11013,9 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.users.vidy.st
+.hits.letras.mus.br
+.tracking.dpmlol.com
 .beam.telegram.hr
 .tracker.telegram.hr
 .campaign.telegram.hr
@@ -11687,7 +11694,6 @@ prd.api.bleacherreport.com
 .web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 .log.realelements.live
 .metrics.cs.money
-.counter-mdpr.freetls.fastly.net
 .vortex-dual.hulu.com
 .alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 .xpu.samsungelectronics.com
@@ -99992,9 +99998,3 @@ tru.am
 .server.whooshwellness.com
 .server.whygolf.com
 .server.wickedcleanlaundry.com
-.server.wilgnersilva.com.br
-.server.willdefendwa.com
-.server.windriverchimes.com
-.server.winsonsglobal.com
-.server.winyou.me
-.server.wizardacademybd.com
