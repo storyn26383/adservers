@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.boggindesire.com
+.raggedapproaching.com
 .affectionatestorage.com
 .stackup-ai.com
 .agl003.com
@@ -7043,6 +7045,7 @@ e.axon.ai
 .static-rtb2.wearethepoint.com
 .static-rtb2.wecall-server.com
 .d162h6x3rxav67.cloudfront.net
+.sa7eer.com
 .lobe.scv.public.sse-prod-eks-euw1.futureplc.engineering
 .gray.unlikebuck.com
 .serve.omr.com
@@ -99995,6 +99998,3 @@ tru.am
 .server.violaoacademypro.com.br
 .server.violaoparaoreino.com.br
 .server.virkenshop.com
-.server.visinexmart.com
-.server.visitepomerode.com.br
-.server.vistamart.xyz
