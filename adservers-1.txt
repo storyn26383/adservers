@@ -1,10 +1,16 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.dyf08yha87tii.cloudfront.net
+.evenyippee.com
+.ergadx.com
+.dish.yippeeidle.com
+.smoothhmph.com
+.kjbeseujnss.com
+.jorcnuuk.com
 .dgwxaedsrledc.site
 .fmepuzstjrkqv.website
 .fourthdistributeexpecting.com
-.drug.shrillyclose.com
 .cdn.adwebcode.gr
 .boggindesire.com
 .raggedapproaching.com
@@ -5473,7 +5479,6 @@ e.axon.ai
 .rtb-apac.boffoadsapi.com
 .rtb-apac.chocolateplatform.com
 .rtb-apac.cpmme.com
-.rtb-apac.ergadx.com
 .rtb-apac.freevpnplanet.com
 .rtb-apac.houseofpubs.com
 .rtb-apac.intellectscoop.com
@@ -5568,7 +5573,6 @@ e.axon.ai
 .rtb-eu.cpmme.com
 .rtb-eu.crowdegic.com
 .rtb-eu.domrtbresp.com
-.rtb-eu.ergadx.com
 .rtb-eu.freevpnplanet.com
 .rtb-eu.frequency33media.com
 .rtb-eu.houseofpubs.com
@@ -5682,7 +5686,6 @@ e.axon.ai
 .rtb-useast.degpeg.com
 .rtb-useast.domrtbresp.com
 .rtb-useast.epikads.com
-.rtb-useast.ergadx.com
 .rtb-useast.felixads.com
 .rtb-useast.freevpnplanet.com
 .rtb-useast.frequency33media.com
@@ -5761,7 +5764,6 @@ e.axon.ai
 .rtb-uswest.blastmedia.site
 .rtb-uswest.boffoadsapi.com
 .rtb-uswest.chocolateplatform.com
-.rtb-uswest.ergadx.com
 .rtb-uswest.freevpnplanet.com
 .rtb-uswest.hueadsortb.com
 .rtb-uswest.imprexis.biz
@@ -11074,6 +11076,9 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.one01.stright.bizris.com
+.analytics.infomaniak.com
+.biprx.n12.co.il
 .apm.volccdn.com
 .apmplus.volces.com
 .evs.segwww.incident.io
@@ -15616,6 +15621,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.buballmighty.com
 .heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 .ymzu9eeo1y.ru
 .a3kvau184uea.com
@@ -15671,7 +15677,8 @@ dlsdk.appsflyer.com
 .api.firwinds.site
 .geniuslinkcdn.com
 .opendatastats.net
-.assets.onedollarstats.com
+.onedollarstats.com
+.lilstts.com
 .u.lessbutbetter.studio
 .analytics.autoodb.com
 .cdn.seline.com
@@ -99991,10 +99998,3 @@ tru.am
 .server.vestindoobebe.com
 .server.veteranappeal.com
 .server.vi-markets.com
-.server.viainox.com
-.server.vibewearbd.com
-.server.vidamax.com.br
-.server.vieiraefonseca.com.br
-.server.vilaencantada.com.br
-.server.vilagermanica.com.br
-.server.vilavilaca.com.br
