@@ -1179,7 +1179,6 @@ e.axon.ai
 .729.hewx57uke753uc2k.cyou
 .72qj.q9v729ph1rytx3i.cyou
 .743f.whypjpt2p4p9gc7.cyou
-.747.95g9qp282fj9bxrp.cfd
 .75.5ijle4zi4nhcybq5o.cyou
 .76z.nyx46qv9g8qmzjh4n.cyou
 .79w2.gekjuixgvzywv8nl.cyou
@@ -1292,7 +1291,6 @@ e.axon.ai
 .f6.y1cbl972mr99mw4ck1.cyou
 .f6e8ky.mh3ubx2riqvmu6.cyou
 .f83cu.tzj1kcm1z8vg3bn.cyou
-.f8ghh.b26pmm66c91hbjr.cfd
 .fbmo1lfc9z9if8pq3k9jk.nbqtxkctqz9lqxyzby.cyou
 .fcm5kum7vbo.2pjcu7277jkcx67orn1qqkn6kelc.cyou
 .fe7wk7tihrbgj.em7gh6j5ywry8u23xq7p1bjmub.cyou
@@ -3188,7 +3186,6 @@ e.axon.ai
 .576e5a1d1a.08082c0ad5.com
 .577a3cfb8b.f014b13156.com
 .617529c296.5e14ab617d.com
-.6424ae2542.d6803eed52.com
 .6d87c519e1.84067f6a2e.com
 .6fb7f2651f.ac359edaf2.com
 .7021678b65.6d1e5b5068.com
@@ -7125,6 +7122,7 @@ e.axon.ai
 .static-rtb2.magixengage.com
 .static-rtb2.programmatics.net
 .d162h6x3rxav67.cloudfront.net
+.cdn.dezacibesodexi.com
 .ads.1mindrama.net
 .sa7eer.com
 .lobe.scv.public.sse-prod-eks-euw1.futureplc.engineering
@@ -9602,6 +9600,7 @@ kma.biz
 .content2.nrc.nl
 .aa.hwigroup.com
 .ab.hwigroup.com
+.static.gimii.fr
 .adstanding.com
 .lopfly.com
 .heliumads.com
@@ -11151,6 +11150,8 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.tracking.broadpeak.io
+.a.wing.st
 .metrics.elcomercio.es
 .ad-manager.matsukiyococokara-online.com
 .stat.s.ee
@@ -99997,4 +99998,3 @@ tru.am
 .sd.dvikjewels.com
 .sd.hakunapapaya.com
 .sd.jambowishes.com
-.sd.mattnash.com
