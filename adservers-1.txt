@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.libelintent.com
+.textads.lv
 .resourcelow.com
 .dgkqqbixb.com
 .exbd.ex.co
@@ -3208,7 +3210,6 @@ e.axon.ai
 .a59714c768.689fe98d0d.com
 .a6a1c6ffd0.35c82e35f3.com
 .a82e6920a2.47cb693fa6.com
-.a8ae79b04a.0175a3229c.com
 .ajs.allnestinfinite.com
 .ajs.bowintelligence.com
 .ajs.laketrend.com
@@ -7786,7 +7787,6 @@ vkcdnservice.appspot.com
 .krasnomaga.link
 .kruglyashka.link
 .kudroshapka.link
-.kurolesya.link
 .leproletsu.link
 .morozovnya.link
 .mudrobasa.link
@@ -15715,6 +15715,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.rt.buzzni.com
 .did.kr
 .tracking.trickbyte.com
 .analytics-event.com
@@ -16294,7 +16295,6 @@ dlsdk.appsflyer.com
 .identitypxl.com
 .geotags.refinery89.com
 .logg9r.io
-.api.statsig.com
 .beyondwickedmapping.org
 .bicp-analytics.postscript.io
 .mktp-base.mktplatforms.com
