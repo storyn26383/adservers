@@ -3218,7 +3218,6 @@ e.axon.ai
 .ba4f24e107.edd41b7f68.com
 .c2a7e16670.3bc2a6115d.com
 .d324acf357.c6f63c450a.com
-.d49fd393df.0cc9ed5f1c.com
 .d4a46e4655.700f312054.com
 .d95be1cb52.6e7c875650.com
 .dff4adcb3a.65a16dd098.com
@@ -9653,6 +9652,7 @@ kma.biz
 .twiago.com
 .bauernative.com
 .adshot.de
+.onergogogo.com
 .hmshanyin.com
 .ee.nukido.net
 .pa.wew.jp
@@ -10094,6 +10094,7 @@ kma.biz
 .deapi.sooplive.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads-proxy-aka.prod.bo.canal.canalplustech.pro
 .acdn.newshuntads.com
 .app.bxapi.de
 .yodo1.com
@@ -14421,6 +14422,7 @@ r.i.ua
 .zion-telemetry.api.cnn.io
 .zion.qbo.intuit.com
 charlestownwyllie.oaklawnnonantum.com
+.123p.zonazealots.com
 .f703.twincities.com
 .c615.denverpost.com
 .z953.marinij.com
@@ -14678,6 +14680,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.gpskeeper.popinfo.jp
 .api-sdk-tracking.beaconbank.jp
 .api-sdk.beaconbank.jp
 .stream-log.profilepassport.jp
@@ -15715,6 +15718,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.manus-analytics.com
 .rt.buzzni.com
 .did.kr
 .tracking.trickbyte.com
@@ -99994,7 +99998,3 @@ tru.am
 .script.oops.tattoo
 .scripts.flowniq.com
 .sct.sacratu.com.br
-.scuba.bornofwater.com
-.sd.dvikjewels.com
-.sd.hakunapapaya.com
-.sd.jambowishes.com
