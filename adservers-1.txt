@@ -7251,6 +7251,7 @@ e.axon.ai
 .static-rtb2.wearethepoint.com
 .static-rtb2.wecall-server.com
 .d162h6x3rxav67.cloudfront.net
+.fido.xhamster.com
 .x.appbrain.com
 .cdn.dezacibesodexi.com
 .ads.1mindrama.net
@@ -99997,4 +99998,3 @@ tru.am
 .load.sst.oumnoorconciergerie.com
 .load.sst.pack.am
 .load.sst.pandazaza.com
-.load.sst.paramedicgems.com
