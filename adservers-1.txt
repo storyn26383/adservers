@@ -1,6 +1,7 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.adsgravity.io
 .greentrafsa.com
 .organic-package.com
 .neonewszone.lat
@@ -1333,7 +1334,6 @@ e.axon.ai
 .cjjvjjjg.nbovvhut6yituwec.cyou
 .clpx.l2l11bqg1myq1ytu2jck3.cyou
 .co5r3bi.ny3eyunlbmke866c5yq.cyou
-.cp.txuiz8ko6y7h1nynkc2km81b.cfd
 .cqf.ftrqzvz16iyr23ur7jt5kbc.cyou
 .cqg7mr.9wtnrxobew17ot9jlcil.cyou
 .ctyt4.xxu6lgh75rfq6xttz4qni7.cyou
@@ -1579,7 +1579,6 @@ e.axon.ai
 .m8.iu65v9f18fgifekcv1p3gg.cyou
 .m9ch5.oopl4cigu9m95goihb2.cyou
 .mf.uk38mhbj7hlehg2.cyou
-.mgp.jiroxkqcnymkrgm.cfd
 .miy.n34czxxoxkf9frl.cyou
 .mju.p4fux4l5cow2lnh.cyou
 .mm.4z8b6b5uix2nz3645.cyou
@@ -3354,7 +3353,6 @@ e.axon.ai
 .b0665d54d9.30e7ff2c41.com
 .ba4f24e107.edd41b7f68.com
 .c2a7e16670.3bc2a6115d.com
-.cc362b1376.70ad2eae1e.com
 .d324acf357.c6f63c450a.com
 .d4a46e4655.700f312054.com
 .d95be1cb52.6e7c875650.com
@@ -10334,6 +10332,8 @@ kma.biz
 .deapi.sooplive.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.inapps.af-sdk.com
+.cdn-settings.af-sdk.com
 .da.flvcdn.net
 .rtb.nefta.app
 .ads-proxy-aka.prod.bo.canal.canalplustech.pro
@@ -11394,11 +11394,14 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.stats.spidersense.xyz
+.umami.vidcore.net
 .umami.vidfast.vc
 .umami.vidup.to
 .bigdata.downza.com
 .zenstats.yzhy19.cn
 .data.vzhh.de
+.telemetry.paypay.ne.jp
 .applytics.zwyr157wwiu6eior.com
 .zwjvbnvhnzme.heise.de
 .b.allegrocdp.com
@@ -17229,6 +17232,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.metrics.selectel.ru
 .collect.pravdastat.com
 .search-monitor.11st.co.kr
 .a.cdn-lab.shop
@@ -99994,7 +99998,3 @@ tru.am
 .load.cruiseamalfi.com
 .load.cs.claurissa.com
 .load.cs.fourpillarseo.com
-.load.csst.charterhousesquareschool.co.uk
-.load.csst.mastersacademyinternational.com
-.load.csst.reptonalbarsha.org
-.load.cst.averraglow.com
