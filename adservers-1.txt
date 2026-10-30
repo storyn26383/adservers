@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.reflecting-nature.com
+.unfoldedtrade.com
 .usrpubtrck.com
 .festivehorse.com
 .ruamupr.com
@@ -11396,6 +11398,8 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.s.igen.fr
+.op.fintables.com
 .stats.spidersense.xyz
 .umami.vidcore.net
 .umami.vidfast.vc
@@ -16197,6 +16201,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.api-abtest-cdn.learnings.ai
 .mobile-telemetry.multiball.forzafootball.net
 .gpskeeper.popinfo.jp
 .api-sdk-tracking.beaconbank.jp
@@ -17234,6 +17239,10 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.radar.snitcher.com
+.cdn.snitcher.com
+.claydar.com
+.analytics.searchspring.net
 .apmginternational.matomo.cloud
 .metrics.selectel.ru
 .collect.pravdastat.com
@@ -99989,12 +99998,3 @@ tru.am
 .load.consumerpilot.noreviahome.com
 .load.consumerpilot.zyrahomeplus.com
 .load.contagem.cachacacatarinense.com.br
-.load.container.labs.reframeultra.com
-.load.content.webpervade.com
-.load.convex.us.arrk.com
-.load.core.zerotoccna.com
-.load.coregtm.myus.com
-.load.cortadf.cortagroup.com
-.load.coss.ebenezerelevadores.com.br
-.load.cpg.nerajobs.com.au
-.load.cpga.copiatek.store
