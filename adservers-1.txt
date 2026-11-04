@@ -1,6 +1,7 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.inyourpocket.co.uk
 .lzopmoas.in
 .helpfulmaple.com
 .accountut.com
@@ -11559,6 +11560,8 @@ o0e.ru
 .templates.buscape.com
 .urlcash.net
 .zebestof.com
+.e-afiliacao.estadao.com.br
+.smartads.estadao.com.br
 .ak-ads-ns.prisasd.com
 .ads.comunidades.net
 .go.etoro.com
@@ -11569,6 +11572,7 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.api-node.corvexa.cloud
 .collector.wawlabs.com
 .telemetry.ecosoft.group
 .stats.cleanip.io
@@ -17413,6 +17417,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trueanthem.com
 .ubbrobccheck20.cc
 .radar.snitcher.com
 .cdn.snitcher.com
@@ -99993,8 +99998,3 @@ tru.am
 .imz.impressionzs.com
 .in.vertaz.com.br
 .inc.hightouchshop.com
-.inc.hopeoficial.com.br
-.inc.patbo.com
-.inco.clinicaincorpus.com.br
-.indiv.indivmedia.com
-.infaq.muslimhelpglobal.com
