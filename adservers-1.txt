@@ -1,6 +1,9 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.insightjs.com
+.insightjs.org
+.zowiedead.com
 .inyourpocket.co.uk
 .lzopmoas.in
 .helpfulmaple.com
@@ -3437,7 +3440,6 @@ e.axon.ai
 .1a28484fbe.e452be28aa.com
 .1b88cc6bce.7898a9d175.com
 .1e88ea0e55.540484935e.com
-.26f03d6af3.ad62c988a3.com
 .274f265400.6dbc7ad876.com
 .2f7cae6ec9.a41ffeba4a.com
 .30d48a7af1.5852e7a452.com
@@ -11317,6 +11319,7 @@ o0e.ru
 .yuhuads.com
 .zedo.com
 .n152adserv.com
+.lekipoludzku.pl
 .testowa-strona-dozynkowa.pl
 .a.rutube.ru
 .epom.mbt-8.com
@@ -11436,6 +11439,7 @@ o0e.ru
 .ts2.hockey-talks.com
 .ukrsvit.ukrmir.info
 .vozer.voffka.com
+.antiadblockguard.com
 .otzads.net
 .bivogrvfyoj.in
 .chorumebbbbgoza.xyz
@@ -11572,6 +11576,8 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.pbs.yahoo.com
+.pbd.yahoo.com
 .api-node.corvexa.cloud
 .collector.wawlabs.com
 .telemetry.ecosoft.group
@@ -13091,7 +13097,6 @@ o0e.ru
 .adobecorp.data.adobedc.net
 .log-gateway.zoom.us
 .orderana*.spankbang.com
-.upsell.alphwidget.com
 .4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
 .error-analytics-sessions-production.shopifysvc.com
 .analytics.pesktop.com
@@ -20336,7 +20341,6 @@ tru.am
 .leadin.com
 .leadintelligence.co.uk
 .leadium.com
-.leadlife.com
 .leadmanagerfx.com
 .leadsius.com
 .legolas-media.com
@@ -21307,6 +21311,8 @@ tru.am
 .ws-goguardian.pusher.com
 .x3-policy-maker.goguardian.com
 .x3-predictor.goguardian.com
+.post.eyepinnews.com
+.news.post.at
 .jp-axia.m0mentum.net
 .mr-in.com
 .a.callawaygolf.com
@@ -99992,9 +99998,3 @@ tru.am
 .img.justifiedlaboratories.com
 .img.oemeuro.com
 .imovel.alliancyimobiliaria.com.br
-.import.goatmayoristas.com
-.imran.techmentorbd.com
-.imrhyzgb.revelo.bg
-.imz.impressionzs.com
-.in.vertaz.com.br
-.inc.hightouchshop.com
