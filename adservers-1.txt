@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.trambelongedallure.com
+.contuselegator.com
 .dvwztnx4ab3fl.cloudfront.net
 .insightjs.com
 .insightjs.org
@@ -1637,7 +1639,6 @@ e.axon.ai
 .kt52c.weeh4nmrnm4lxgy52w753xiz7m.cyou
 .kt958mnhyxlfn.pzpjzbvnby1rmvpi58.cyou
 .ktmk.giie442f4bg6yxzihlcyyovvjmw.cyou
-.kykvi14n49.k8x3xjunl4ku9jh78z7tb6.cfd
 .kz.u3o866ggbl9q4t3x5qmqbxu4j5jfwy.cyou
 .l.22cr89c3zcfmn7.cyou
 .l.2yo36cjnbrknnk.cyou
@@ -3579,7 +3580,6 @@ e.axon.ai
 .9cf7c25458.b8bd2d84d4.com
 .9fffadcb83.80af4c57a3.com
 .a398b1fb80.331f7bf198.com
-.a57af701b6.1adda2699c.com
 .a59714c768.689fe98d0d.com
 .a6a1c6ffd0.35c82e35f3.com
 .a82e6920a2.47cb693fa6.com
@@ -11762,6 +11762,8 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.visor.sbrf.ru
+.visor.sberbank.ru
 .fluid-player-analytics.sky.it
 .pbs.yahoo.com
 .pbd.yahoo.com
@@ -16572,6 +16574,8 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mkt.supercell.com
+.collector.snowplow.supercell.com
 .api-abtest-cdn.learnings.ai
 .mobile-telemetry.multiball.forzafootball.net
 .gpskeeper.popinfo.jp
@@ -99994,7 +99998,3 @@ tru.am
 .gtm.urbansterling.co
 .gtm.urbistudios.com.br
 .gtm.url.capital
-.gtm.ursodeouro.com
-.gtm.usafibroidcenters.net
-.gtm.usaprostate.net
-.gtm.usavein.net
