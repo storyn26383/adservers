@@ -11761,6 +11761,10 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.tracklet.prod.tech.as-nmt.de
+.stats.vidbolt.pro
+.analytics.redflix.ac
+.t.games.gg
 .visor.sbrf.ru
 .visor.sberbank.ru
 .fluid-player-analytics.sky.it
@@ -16573,6 +16577,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.lw-c-log.lastwarapp.net
 .mkt.supercell.com
 .collector.snowplow.supercell.com
 .api-abtest-cdn.learnings.ai
@@ -99993,8 +99998,3 @@ tru.am
 .gtm.upimoveisnaplanta.com.br
 .gtm.upmat.com.br
 .gtm.uprofit.com
-.gtm.urban.imb.br
-.gtm.urbansterling.co
-.gtm.urbistudios.com.br
-.gtm.url.capital
-.gtm.ursodeouro.com
