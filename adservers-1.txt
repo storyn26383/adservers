@@ -8360,6 +8360,7 @@ vkcdnservice.appspot.com
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.allroll.biz
 .antonshipanov.org
 .poi.kinzazaza.org
 .beloboka.link
@@ -11761,6 +11762,7 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.analytics.datacite.org
 .tracklet.prod.tech.as-nmt.de
 .stats.vidbolt.pro
 .analytics.redflix.ac
@@ -16577,6 +16579,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.pp3-sdkdata-v2.profilepassport.jp
 .lw-c-log.lastwarapp.net
 .mkt.supercell.com
 .collector.snowplow.supercell.com
@@ -99995,6 +99998,3 @@ tru.am
 .gtm.up.edu.br
 .gtm.upda.com.br
 .gtm.upelectronics.com.br
-.gtm.upimoveisnaplanta.com.br
-.gtm.upmat.com.br
-.gtm.uprofit.com
