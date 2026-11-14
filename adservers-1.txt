@@ -12667,7 +12667,6 @@ o0e.ru
 .s2.gameanswers.net
 .server-side-tagging-ycy2jyrtma-uc.a.run.app
 .serverside.myticket.de
-.sgimage.netmarble.com
 .sgtm.arezki.cloud
 .sgtm.ebikecenter.fi
 .sgtm.rhenus-office.pl
@@ -99998,3 +99997,4 @@ tru.am
 .gtm.metodorara.com
 .gtm.metodorendaprevisivel.com.br
 .gtm.metodoressignifique.com.br
+.gtm.metodosoft.com
