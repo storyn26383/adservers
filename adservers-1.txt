@@ -14690,6 +14690,7 @@ o0e.ru
 .stats.jiosaavn.com
 .js-collector.icewood.net
 .analytics.luogu.me
+.jzq915.playmobil.com
 .analytics.kode.co.kr
 .xtr.tos.sktelecom.com
 .gatag.uplus.co.kr
@@ -16916,7 +16917,6 @@ r.i.ua
 .shtrack.kingsoft.jp
 .sl-h-statistics-ch-1.storeland.ru
 .sli.familyhandyman.com
-.slike.indiatimes.com
 .sls2.loisirsencheres.com
 .smetric.trulia.com
 .smetrics.foxnews.com
