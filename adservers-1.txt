@@ -1,6 +1,9 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.amazingfork.com
+.namebrain.org
+.zipzirim.com
 .royalbluefireplace.com
 .coolaspen.tech
 .9hito.com
@@ -11762,6 +11765,8 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.stats.proxypurity.com
+.beacon.viafoura.io
 .events.plus.yandex.net
 .20251117mix.zgstongji.vip
 .2702.anglicanledger.org
@@ -17263,6 +17268,7 @@ r.i.ua
 .track.searchiq.co
 .track.slideshare.net
 .track.sohu.com
+.track.tcppu.com
 .track.tenjin.io
 .track.thesaurus.com
 .track.tooplay.com
@@ -99992,9 +99998,3 @@ tru.am
 .gtm.metodoelementar.com.br
 .gtm.metodoflv.com.br
 .gtm.metodohigservice.com.br
-.gtm.metodoneuroppavalia.com.br
-.gtm.metodoraizana.com
-.gtm.metodorara.com
-.gtm.metodorendaprevisivel.com.br
-.gtm.metodoressignifique.com.br
-.gtm.metodosoft.com
