@@ -11766,6 +11766,7 @@ o0e.ru
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
 .stats.proxypurity.com
+.cast-imp.jtbc.co.kr
 .beacon.viafoura.io
 .events.plus.yandex.net
 .20251117mix.zgstongji.vip
@@ -19013,6 +19014,9 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.bianopixel.com
+.connect.liblynx.com
+.badge.dimensions.ai
 .viewanalitycs.org
 .actone.app
 .anakhoki168.com
@@ -99994,7 +99998,3 @@ tru.am
 .gtm.metodoavs.com.br
 .gtm.metodocasaconceito.com
 .gtm.metododocorpoancestral.com.br
-.gtm.metodoedl.com.br
-.gtm.metodoelementar.com.br
-.gtm.metodoflv.com.br
-.gtm.metodohigservice.com.br
