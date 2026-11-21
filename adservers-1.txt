@@ -1,6 +1,7 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.conventionalresponse.com
 .pockett3.com
 .saqtuwrryaft.in
 .cheeseoverlordsaline.com
@@ -6604,7 +6605,6 @@ e.axon.ai
 .xml-eu-v4.creziamedia.com
 .xml-eu-v4.cyberpull-place.online
 .xml-eu-v4.dataverixa.com
-.xml-eu-v4.deepoceandrop.biz
 .xml-eu-v4.dmnlks-c.online
 .xml-eu-v4.dmnlks-d.online
 .xml-eu-v4.dollopsdigital.com
@@ -7019,7 +7019,6 @@ e.axon.ai
 .xml-v4.cyberpull-place.online
 .xml-v4.datadrives.ai
 .xml-v4.dataverixa.com
-.xml-v4.deepoceandrop.biz
 .xml-v4.dlserve.ai
 .xml-v4.dmnlks-c.online
 .xml-v4.dmnlks-d.online
@@ -7314,7 +7313,6 @@ e.axon.ai
 .xml.cyberpull-place.online
 .xml.dataverixa.com
 .xml.dbegantotireo.org
-.xml.deepoceandrop.biz
 .xml.dlserve.ai
 .xml.dmakingsilver.com
 .xml.dmnlks-c.online
@@ -19315,7 +19313,7 @@ dlsdk.appsflyer.com
 .wstats.ageverif.com
 .api.eventbus.me
 .rumt-sg.com
-.yazio-analytics.com
+.event-ingestion.yazio-analytics.com
 .hightouch-events.com
 .rtbuniverse.com
 .gw-usa-tracker.zmaticoo.com
@@ -99998,3 +99996,5 @@ tru.am
 .gtm.mercafacil.com
 .gtm.mercempresarial.com.br
 .gtm.merchpirate.com.au
+.gtm.metadoctors.app
+.gtm.metaforando.com.br
