@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.xtaztxiibmcgwv.com
+.qozkbwkxygxlrs.com
 .conventionalresponse.com
 .pockett3.com
 .saqtuwrryaft.in
@@ -8364,6 +8366,8 @@ vkcdnservice.appspot.com
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.gammarock.com
+.camelbigboss.com
 .allroll.biz
 .antonshipanov.org
 .poi.kinzazaza.org
@@ -15482,7 +15486,6 @@ prd.api.bleacherreport.com
 .supportmetrics.apple.com
 .securemvt.apple.com
 .metrics.apple.com
-.eldoradottfha.dataplane.rudderstack.com
 .analytics.castel.jp
 .tagging.anaxago.com
 .tagging.boataround.com
@@ -19023,6 +19026,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.dataplane.rudderstack.com
 .cognitivlabs.com
 .bianopixel.com
 .connect.liblynx.com
@@ -99994,7 +99998,3 @@ tru.am
 .gtm.meraviso.com
 .gtm.mercadaojcb.com.br
 .gtm.mercafacil.com
-.gtm.mercempresarial.com.br
-.gtm.merchpirate.com.au
-.gtm.metadoctors.app
-.gtm.metaforando.com.br
