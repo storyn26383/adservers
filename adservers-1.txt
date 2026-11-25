@@ -1,6 +1,7 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.fozekikikiminu.com
 .reliablelinen.com
 .xtaztxiibmcgwv.com
 .qozkbwkxygxlrs.com
@@ -3644,7 +3645,6 @@ e.axon.ai
 .19d28d847e.b3beca4e4a.com
 .1a28484fbe.e452be28aa.com
 .1b88cc6bce.7898a9d175.com
-.1dd9748d5b.7302dedd02.com
 .1e88ea0e55.540484935e.com
 .274f265400.6dbc7ad876.com
 .2f7cae6ec9.a41ffeba4a.com
@@ -3937,7 +3937,6 @@ e.axon.ai
 .jssdk.cysyjucymudity.com
 .jssdk.dezacibesodexi.com
 .jssdk.fogavokygysypa.com
-.jssdk.fozekikikiminu.com
 .jssdk.fubavavibosuta.com
 .jssdk.gogukypynijoxy.com
 .jssdk.gukimibapasifu.com
@@ -8297,6 +8296,8 @@ vkcdnservice.appspot.com
 .ads2native.com
 .hdvmyo.com
 .adsy.mail.bg
+.ry6wy3dr62usd0fnicfk.com
+.hxgnwrwslhzgrmjsfvdevrjpn.com
 .artjnley.com
 .ezze0ct.com
 .hokkid5.com
@@ -11937,6 +11938,7 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.tag.atom.gamedistribution.com
 .ingest.t3.codes
 .stats.proxypurity.com
 .cast-imp.jtbc.co.kr
@@ -14243,6 +14245,7 @@ o0e.ru
 .track.eventail.bg
 .track.solunexnexoria.vip
 .track.zoacademia.club
+.tracker.beam.remp.startitup.sk
 .tracking.bolt.eu
 .tracking.facts.hk
 .tracking.joker.com
@@ -19187,6 +19190,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.stmtag.ru
 .dataplane.rudderstack.com
 .cognitivlabs.com
 .bianopixel.com
@@ -19267,7 +19271,8 @@ dlsdk.appsflyer.com
 .adtasukaru.com
 .manus-analytics.com
 .rt.buzzni.com
-.did.kr
+.track.did.kr
+.analytics.did.kr
 .tracking.trickbyte.com
 .analytics-event.com
 .integrations-itbl.co
@@ -19416,7 +19421,6 @@ dlsdk.appsflyer.com
 .mushroomgods.com
 .t-dsp.pinduoduo.com
 .elmasistatistik.com.tr
-.bapi-*.moengage.com
 .analystic.365av.net
 .mollyflow.com
 .citiservi.es
@@ -99994,7 +99998,3 @@ tru.am
 .gtm.blessing.zattasports.com
 .gtm.blinkpayroll.com
 .gtm.blog.renaltracker.com
-.gtm.bloomx.com.br
-.gtm.blownlondon.com
-.gtm.bluegreenitaly.com
-.gtm.bluestok.com.br
