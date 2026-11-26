@@ -11938,6 +11938,9 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.pan.pazarama.com
+.telemetry.*.oci.oraclecloud.com
+.dsh-otel-collector.deepseeksvc.com
 .tag.atom.gamedistribution.com
 .ingest.t3.codes
 .stats.proxypurity.com
@@ -19190,6 +19193,9 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adcanvas.com
+.clerk-telemetry.com
+.ghtinc.com
 .stmtag.ru
 .dataplane.rudderstack.com
 .cognitivlabs.com
@@ -99992,9 +99998,3 @@ tru.am
 .gtm.blacktie.com.br
 .gtm.blackvibes.co
 .gtm.blaklader.ca
-.gtm.blaklader.com
-.gtm.bleedingkits.org
-.gtm.blenderbros.com
-.gtm.blessing.zattasports.com
-.gtm.blinkpayroll.com
-.gtm.blog.renaltracker.com
