@@ -1,6 +1,8 @@
 m.vpon.com
 abr.ge
 e.axon.ai
+.adfractal.com
+.tarqivo.com
 .fozekikikiminu.com
 .reliablelinen.com
 .xtaztxiibmcgwv.com
@@ -11938,6 +11940,12 @@ o0e.ru
 .adv.r7.com
 .tagman.britishairways.com
 .incoming.telemetry.mozilla.org
+.telemetry.*.oraclecloud.com
+.events.*.oci.oraclecloud.com
+.logging.*.oci.oraclecloud.com
+.ac.avito.ru
+.ap-prd-edge-clientlog.nexon.com
+.toy.log.nexon.io
 .pan.pazarama.com
 .telemetry.*.oci.oraclecloud.com
 .dsh-otel-collector.deepseeksvc.com
@@ -12185,6 +12193,7 @@ o0e.ru
 .aura.fairyaura.com
 .b.csquaregrc.com
 .b.dora.work
+.beam.denikn.cz
 .beats.churchdesk.com
 .bhs.alpha-peptides.com
 .blog-analytics.hskl.me
@@ -18151,6 +18160,7 @@ dlsdk.appsflyer.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.appmetrica.sovcombank.ru
 .pp3-sdkdata-v2.profilepassport.jp
 .lw-c-log.lastwarapp.net
 .mkt.supercell.com
@@ -19193,6 +19203,7 @@ dlsdk.appsflyer.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.diginetica.net
 .adcanvas.com
 .clerk-telemetry.com
 .ghtinc.com
@@ -19506,7 +19517,6 @@ dlsdk.appsflyer.com
 .static.terratraf.io
 .matomo.stackvaults.com
 .cdn.moengage.com
-.rapid-cdn.yottaa.com
 .rum-ingress-coralogix.com
 .elitebidder.com
 .adstk.io
@@ -99988,13 +99998,3 @@ tru.am
 .gtm.bioprofile.com
 .gtm.biscoitoscaseiros.com
 .gtm.bispomarciomeira.com.br
-.gtm.bizfly.com.br
-.gtm.bizsure.nz
-.gtm.bjorneparken.no
-.gtm.blackbeardformen.com
-.gtm.blackbooksloja.com.br
-.gtm.blackhelmet.com.br
-.gtm.blacklandfw.com
-.gtm.blacktie.com.br
-.gtm.blackvibes.co
-.gtm.blaklader.ca
